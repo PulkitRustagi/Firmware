@@ -8,6 +8,7 @@ set(config_module_list
 	#
 	# Board support modules
 	#
+	examples/px4_simple_app/test1
 	drivers/device
 	drivers/stm32
 	drivers/stm32/adc
